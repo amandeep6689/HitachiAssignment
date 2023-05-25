@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name=" the Irvine, United States address" timestamp="2023-05-23T20:46:39" hostname="localhost" time="4.269" errors="0" tests="2" skipped="0" failures="0">
+  <testcase classname=" the Irvine, United States address" name="Click contact us button" time="3.84">
+  </testcase>
+  <testcase classname=" the Irvine, United States address" name="Validate Irvine, United state address" time="0.425">
+  </testcase>
+ </testsuite>
+</testsuites>
